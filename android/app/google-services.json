@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93305189964",
+    "project_id": "flashchat-e5e3f",
+    "storage_bucket": "flashchat-e5e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93305189964:android:8974f37bb19fa199c8a6e9",
+        "android_client_info": {
+          "package_name": "com.kanchi.flashchat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93305189964-hsingi1t3urkhute8j0907iaoeajl6j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjq0UQmChnL0VTH2CcF4b3P9rjB49Npq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93305189964-hsingi1t3urkhute8j0907iaoeajl6j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
